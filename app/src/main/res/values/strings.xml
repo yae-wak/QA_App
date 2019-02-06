@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QA_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hobby">趣味</string>
+    <string name="life">生活</string>
+    <string name="health">健康</string>
+    <string name="computer">コンピューター</string>
+    <string-array name="genre">
+        <item>@string/hobby</item>
+        <item>@string/life</item>
+        <item>@string/health</item>
+        <item>@string/computer</item>
+    </string-array>
+</resources>
